@@ -17,3 +17,4 @@ Random Word API
 3. Real-time Feedback: Color-coded feedback on guessed letters to keep players engaged.
 
    
+https://github.com/user-attachments/assets/312881ef-5898-4943-9f3f-156a0f5983e9
